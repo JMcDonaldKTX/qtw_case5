@@ -1,0 +1,10 @@
+Predicting 'Action'
+
+Use more advanced models - but doesn't specify
+
+Report on level of accuracy and the level of performance
+
+Filters incoming requests, classify them, and auto accept or deny.  Wants best, most advanced model.
+
+
+
